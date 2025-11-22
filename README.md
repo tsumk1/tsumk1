@@ -1,4 +1,6 @@
-*тут поки пусто*
+![картинка](![images](https://github.com/user-attachments/assets/5738a1dd-1d50-4bb4-a7fe-fe27c5130bbb)
+)
+
 
 <!--
 **tsumk1/tsumk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
