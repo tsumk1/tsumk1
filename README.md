@@ -1,5 +1,4 @@
-![картинка](![images](https://github.com/user-attachments/assets/5738a1dd-1d50-4bb4-a7fe-fe27c5130bbb)
-)
+![картинка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJIEgRW6MYFvx06Uubosr81mS2fIGGAltXbTrKurApcB5APfcecqV-Oo1ZyIly-MtBA&usqp=CAU)
 
 
 <!--
