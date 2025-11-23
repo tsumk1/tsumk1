@@ -1,2 +1,1 @@
-![photo_2025-11-23_11-50-00](https://github.com/user-attachments/assets/8401f459-8567-4856-895d-62a216f521e8)
-
+![cat](https://github.com/user-attachments/assets/8c233693-abdf-4b02-879a-b88444e1c438)
