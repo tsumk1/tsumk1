@@ -1,2 +1,1 @@
-![TSUMI](https://github.com/user-attachments/assets/12089300-5f6a-4d76-b143-ebcaec02807b)
-
+![TSUMI](https://github.com/user-attachments/assets/afd2428d-7eff-49f7-a125-9f8e29c5a30c)
