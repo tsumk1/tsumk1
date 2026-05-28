@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://herokuapp.com" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsumk1&theme=dark" alt="GitHub Streak">
   </a>
 </p>
